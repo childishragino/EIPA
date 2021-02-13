@@ -1,5 +1,5 @@
-%% 
-%  
+%% Harmonic Wave Equation in 2D 
+%  Finite Difference and Modes
 %
 %  Author: Ragini Bakshi, Feb 2021
 %  Structure and Problem provided by: Professor Smy, 2021
